@@ -1,6 +1,9 @@
 # Xamarin-wallpapers
 Amazing wallpapers about xamarin and his differents aspect. 
 
+## (UPDATE) :small_red_triangle_down::small_red_triangle_down::small_red_triangle_down::small_red_triangle_down:
+This repository is no longer updated. It has moved to [here](https://luismts.com/blog/category/wallpapers/). 
+
 ## Why is it?
 I was thinking of changing my wallpaper in my cellphone, so I decided to look for one of xamarin. I spent some really hard minutes looking for one without result. So I designed some instead. I re-designed some images that I found as wallpapers for our cellphones and I was just testing the others. 
 
